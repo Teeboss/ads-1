@@ -6,7 +6,7 @@ import kgsbOne from "./assets/kgsb.png";
 
 function App() {
   return (
-    <div className="lg:p-12 md:p-8 p-3 h-[100vh] bg-[#020C6D] bg-[url('./assets/pattern.png')] bg-cover bg-center">
+    <div className="lg:p-12 md:p-8 p-3 h-[120vh] bg-[#020C6D] bg-[url('./assets/pattern.png')] bg-cover bg-center">
       <img
         src={kgsbOne}
         alt=""
